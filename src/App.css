@@ -105,4 +105,8 @@ ul{
     margin-left: 450px;
     
 }
-  
+@keyframes zoom-in {
+    100%{
+        transform: scale(1);
+    }
+}
